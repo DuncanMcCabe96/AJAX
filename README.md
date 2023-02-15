@@ -1,4 +1,4 @@
-# Instructions to Run AJAX files with Apache Server using XAMPP
+# Instructions to Run AJAX files with Apache & XAMPP
 
 1. Download [XAMPP](https://www.apachefriends.org/download.html)
 2. Once the download is complete find the XAMPP folder in your root directory C: 
