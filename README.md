@@ -9,6 +9,6 @@
    * <img width="544" alt="image" src="https://user-images.githubusercontent.com/8301812/219130423-27913d70-7f0b-4ae6-9577-ce36c244f84f.png">
 5. Find the Apache Module and click Start 
 6. Open a webbrowser and type in your local host path to the ajax_basic.html 
-    * http://127.0.0.1/AJAX/ajax_basic.html?
+    * http://127.0.0.1/ajax_basic.html?
 7. If you need to change ports type:
     * http://127.0.0.1:8080/ajax_basic.html
