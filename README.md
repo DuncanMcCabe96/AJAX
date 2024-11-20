@@ -1,4 +1,7 @@
-# Instructions to Run AJAX files with Apache & XAMPP
+Below are the instructions for the AJAX tutorial code I put together for the Tech Academy tutorial videos. 
+From this code, I wrote a video script, recorded voice-over, and screen recorded, then edited it all together. 
+
+## Instructions to Run AJAX files with Apache & XAMPP
 
 1. Download [XAMPP](https://www.apachefriends.org/download.html)
 2. Once the download is complete find the XAMPP folder in your root directory C: 
